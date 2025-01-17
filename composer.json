@@ -1,0 +1,12 @@
+{
+    "name": "n5s/wp-change-password-url",
+    "description": "A tiny (mu) plugin that adds support for the well-known URL for changing passwords",
+    "license": "GPL-2.0-or-later",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Nicolas Lemoine",
+            "email": "nico@n5s.dev"
+        }
+    ]
+}
